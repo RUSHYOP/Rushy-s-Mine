@@ -4,5 +4,6 @@ $tags:$ #Begining
 
 # LINKS
 [[Templates]]
-[[Introduction to Git]]
-
+[[Github Foundations]]
+[[Amazing People]]
+[[Bulk Resources]]
