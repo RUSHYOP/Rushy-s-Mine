@@ -1,0 +1,9 @@
+{
+  "accentColor": "#00ffe1",
+  "cssTheme": "Wasp",
+  "textFontFamily": "Montserrat",
+  "interfaceFontFamily": "Cascadia Mono,Bodoni 72 Oldstyle",
+  "monospaceFontFamily": "Fira Code",
+  "baseFontSize": 16,
+  "baseFontSizeAction": true
+}

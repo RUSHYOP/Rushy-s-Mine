@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "34e3c8f95d39adfc",
+    "type": "split",
+    "children": [
+      {
+        "id": "1784ccf1ce947110",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "714d4a5e68e50712",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "What Is Version Control.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "What Is Version Control"
+            }
+          }
+        ]
+      },
+      {
+        "id": "883289e0e4c7a237",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98a0af8e6f2c358d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6e27752611e4af27",
+    "type": "split",
+    "children": [
+      {
+        "id": "6416f3a6fef87623",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a25e3d9dc34aec31",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7ddad18ecbe4e9d6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "192978e2acb3f359",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "55d8c0d062d82c62",
+    "type": "split",
+    "children": [
+      {
+        "id": "edad789805390ae1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72b1f1e99054d47a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "What Is Version Control.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for What Is Version Control"
+            }
+          },
+          {
+            "id": "26279db1d49a7f70",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "What Is Version Control.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from What Is Version Control"
+            }
+          },
+          {
+            "id": "9fbc30eed0c834e4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "352633da27178e31",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "b26ebc86293c67e7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "What Is Version Control.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of What Is Version Control"
+            }
+          },
+          {
+            "id": "3765cc0f2168414c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "714d4a5e68e50712",
+  "lastOpenFiles": [
+    "What Is Version Control.md",
+    "4. Bulk resources/progit.pdf",
+    "4. Bulk resources/Unconfirmed 803909.crdownload",
+    "4. Bulk resources",
+    "New folder",
+    "3.templates/Subject.md",
+    "1.Index/Master Node.md",
+    "2.Main Notes/Github Foundations Part 1/Introduction to Git.md",
+    "3.templates/INDEX TITLE.md",
+    "1.Index/Templates.md",
+    "Base.base",
+    "Git Copilot.md",
+    "Untitled.canvas",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "3.templates",
+    "2.Main Notes/Github Foundations Part 1",
+    "2.Main Notes",
+    "2.Main Notes",
+    "1.Index",
+    "Welcome.md"
+  ]
+}
