@@ -33,8 +33,7 @@
               "title": "Github Foundations"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,11 +206,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e9e33dbb84bccbb8",
+  "active": "a25e3d9dc34aec31",
   "lastOpenFiles": [
-    "8. Gists.md",
     "1.Index/Github Foundations.md",
-    "7. Repositories.md",
+    "2.Main Notes/Github Foundations Part 1/8. Gists.md",
+    "2.Main Notes/Github Foundations Part 1/7. Repositories.md",
     "2.Main Notes/Github Foundations Part 1/5. Introduction To Github.md",
     "2.Main Notes/Github Foundations Part 1/6. What is Github.md",
     "2.Main Notes/Github Foundations Part 1/2. What Is Version Control.md",
