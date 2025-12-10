@@ -9,3 +9,7 @@ $tags:$ #index
 [[2. What Is Version Control]]
 [[3. Git Terminology]]
 [[4. Git Basic Commands]]
+[[5. Introduction To Github]]
+[[6. What is Github]]
+[[7. Repositories]]
+[[8. Gists]]
