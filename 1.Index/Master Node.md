@@ -3,7 +3,6 @@
 $tags:$ #Begining
 
 # LINKS
-[[Templates]]
 [[Github Foundations]]
 [[Amazing People]]
 [[Bulk Resources]]

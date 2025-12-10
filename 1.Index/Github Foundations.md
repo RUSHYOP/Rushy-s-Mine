@@ -8,3 +8,4 @@ $tags:$ #index
 [[1. Introduction to Git]]
 [[2. What Is Version Control]]
 [[3. Git Terminology]]
+[[4. Git Basic Commands]]
