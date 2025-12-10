@@ -14,3 +14,7 @@ $tags:$ #index
 [[7. Repositories]]
 [[8. Gists]]
 [[9. Github Flow]]
+[[10. Git Pull]]
+[[11. Git Issues]]
+[[12. Github Mobile]]
+[[13. Github Desktop]]
